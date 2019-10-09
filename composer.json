@@ -1,0 +1,7 @@
+{
+    "name": "dani/at_website",
+    "type": "phpmailer/phpmailer",
+    "require": {
+        "phpmailer/phpmailer": "^6.1"
+    }
+}
